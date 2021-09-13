@@ -1,4 +1,4 @@
-### Hola, I'am Harshit Singh! 👋
+### Hola, I'm Harshit Singh! 👋
 
 <!--
 **harshiitsingh/harshiitsingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
