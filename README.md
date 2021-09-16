@@ -1,5 +1,5 @@
-### Hola, I'm Harshit Singh! 👋
-
+<!--# Hola, I'm Harshit Singh! 👋-->
+<h1 align="center">Hola, I'm Harshit Singh! 👋 </h1>
 <!--
 **harshiitsingh/harshiitsingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
