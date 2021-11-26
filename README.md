@@ -38,8 +38,10 @@ Here are some ideas to get you started:
 <p align="left">
 <a href="https://linkedin.com/in/harshit-singh-7056361b9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshit-singh-7056361b9" height="30" width="40" /></a>
 <a href="https://instagram.com/harshiit_singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harshiit_singh" height="30" width="40" /></a>  
+<!--
 <a href="https://www.codechef.com/users/harshiit_singh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="harshiit_singh" height="30" width="40" /></a>
 <a href="https://kaggle.com/harshiit_singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="harshiit_singh" height="30" width="40" /></a>
+-->
 </p>
 
 
