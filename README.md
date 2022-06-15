@@ -1,4 +1,4 @@
-<!--# Hola, I'm Harshit Singh! 👋-->
+<!--# Hola, I'm Harshit Singh!-->
 <h1 align="center">Hola, I'm Harshit Singh! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <!--
 **harshiitsingh/harshiitsingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   
 - 🔭 I’m currently studying in International Institute of Information Technology Bhubaneswar
   
-- 🌱 I’m currently learning **Machine Learning**.
+- 🌱 I’m currently learning **Natural Language Processing**.
 - 📫 How to reach me **harman.s2021@gmail.com**
 </h3>
 <!--
