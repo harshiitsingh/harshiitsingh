@@ -65,7 +65,8 @@ Here are some ideas to get you started:
 
 <u></u>
 <hr noshade size=1 width="99%">
-
+<details>
+<summary><h3>Github stats</h3></summary>
 <div id="myDIV">
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=harshiitsingh&label=Profile%20views&color=0e75b6&style=flat" alt="harshiitsingh" /> </p>
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshiitsingh&show_icons=true&locale=en&layout=compact" alt="harshiitsingh" width="1200" height="300"/></p>
@@ -73,6 +74,6 @@ Here are some ideas to get you started:
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshiitsingh&" alt="harshiitsingh" width="1200" height="300" /></p>
   <p><img align = "center" src = "https://activity-graph.herokuapp.com/graph?username=harshiitsingh&theme=dracula" alt="harshiitsingh" /></p>
 </div>
-
+</details>
 
 
