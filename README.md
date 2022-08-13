@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   
 - 🔭 I’m currently studying in International Institute of Information Technology Bhubaneswar
   
-- 🌱 I’m currently learning **Natural Language Processing**.
+- 🌱 I’m currently learning **Deep Learning and Natural Language Processing**.
 - 📫 How to reach me **harman.s2021@gmail.com**
 </h3>
 <!--
