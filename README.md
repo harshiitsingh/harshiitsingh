@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <h3>
   
-- 🔭 I’m currently working on [Sentiment-Analysis-Project](https://github.com/harshiitsingh/Sentiment-Analysis)
+- 🔭 I’m currently working on [Pneumonia-Detection-from-Chest-X-Ray-Images](https://github.com/harshiitsingh/Pneumonia-Detection-from-Chest-X-Ray-Images)
   
 - 🔭 I’m currently studying in International Institute of Information Technology Bhubaneswar
   
