@@ -1,79 +1,8 @@
-<!--# Hola, I'm Harshit Singh! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> -->
-<h1 align="center">Hola, I'm Harshit Singh! </h1>
-<!--
-**harshiitsingh/harshiitsingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hey 👋🏽, I'm Harshit
 
-Here are some ideas to get you started:
--->
+**Glad to see you here!** :star_struck: a Data Science and Machine Learning enthusisat 🚀 from India. <br> <br> 
+[![Linkedin Badge](https://img.shields.io/badge/-HarshitSingh-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/harshit-singh-7056361b9/)](https://www.linkedin.com/in/harshit-singh-7056361b9/)
+[![Twitter Badge](http://img.shields.io/badge/-@harshiit_singh-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/harshiit_singh)](https://twitter.com/harshiit_singh) 
+[![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:harman.s2021@gmail.com)](mailto:harman.s2021@gmail.com)
 
-<!--
-- 👯 I’m looking to collaborate on ...  
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: LinkedIn - Harshit Singh (https://www.linkedin.com/in/harshit-singh-7056361b9)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<img src="https://github-readme-stats.vercel.app/api?username=harshiitsingh&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
--->
-
-<h3>
-  
-- 🔭 I’m currently working on [Pneumonia-Detection-from-Chest-X-Ray-Images](https://github.com/harshiitsingh/Pneumonia-Detection-from-Chest-X-Ray-Images)
-  
-- 🔭 I’m currently studying in International Institute of Information Technology Bhubaneswar
-  
-- 🌱 I’m currently learning **Deep Learning and Natural Language Processing**.
-- 📫 How to reach me **harman.s2021@gmail.com**
-</h3>
-<!--
-<h3 align="center">A passionate frontend developer from India</h3>
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshiitsingh" alt="harshiitsingh" /></a> </p>
--->
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/harshit-singh-7056361b9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshit-singh-7056361b9" height="30" width="40" /></a>
-<a href="https://instagram.com/harshiit_singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harshiit_singh" height="30" width="40" /></a> 
-<a href="https://twitter.com/harshiit_singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harshiit_singh" height="30" width="40" /></a>
-<!--
-<a href="https://www.codechef.com/users/harshiit_singh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="harshiit_singh" height="30" width="40" /></a> -->
-<a href="https://kaggle.com/harshiit_singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="harshiit_singh" height="30" width="40" /></a>
-</p>
-
-
-<u></u>
-<hr noshade size=1 width="99%">
-<h1 align="center">Languages and Tools:</h3>
-<p align="center"> 
-  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60"/> </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60"/> </a> 
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> </a> 
-  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/> </a> 
-  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a> 
-  <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="60" height="60"/> </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="60" height="60"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/> </a> 
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="60" height="60"/> </a> 
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="60" height="60"/> </a> 
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="60" height="60"/> </a> 
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="60" height="60"/></a> 
-</p>
-
-<u></u>
-<hr noshade size=1 width="99%">
-<details>
-<summary><h3>Github stats</h3></summary>
-<div id="myDIV">
-  <p align="center"> <img src="https://komarev.com/ghpvc/?username=harshiitsingh&label=Profile%20views&color=0e75b6&style=flat" alt="harshiitsingh" /> </p>
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshiitsingh&show_icons=true&locale=en&layout=compact" alt="harshiitsingh" width="1200" height="300"/></p>
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshiitsingh&show_icons=true&locale=en" alt="harshiitsingh" width="1200" height="300" /></p>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshiitsingh&" alt="harshiitsingh" width="1200" height="300" /></p>
-  <p><img align = "center" src = "https://activity-graph.herokuapp.com/graph?username=harshiitsingh&theme=dracula" alt="harshiitsingh" /></p>
-</div>
-</details>
-
-
+![Harshit's github stats](https://github-readme-stats.vercel.app/api?username=harshiitsingh&show_icons=true&hide_border=true)
